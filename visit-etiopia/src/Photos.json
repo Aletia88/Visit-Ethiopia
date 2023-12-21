@@ -1,0 +1,462 @@
+[
+   
+    {
+        "id": 0,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!", 
+        "imageUrl": "../public/pictures/irrechaone.jpg"
+    },
+    {
+        "id": 1,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "../public/pictures/irrecha6.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "../public/pictures/irrechathree.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "../public/pictures/irrecha4.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "../public/pictures/irrecha5.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "../public/pictures/irrecha6.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "../public/pictures/irrecha7.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "../public/pictures/irrecha8.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "../public/pictures/irrecha9.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Irrecha",
+        "description": "Eid Mubarak",
+        "imageUrl": "../public/pictures/irrecha10.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "../public/pictures/eid1.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "../public/pictures/eid2.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "../public/pictures/eid3.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "../public/pictures/eid4.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "../public/pictures/eid5.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "../public/pictures/eid6.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "../public/pictures/eid7.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "../public/pictures/eid8.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "../public/pictures/eid9.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "../public/pictures/eid10.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/lali1.jpg"
+    },
+    {
+        "id": 21,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/lali2.jpg"
+    },
+    {
+        "id": 22,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/lali3.jpg"
+    },
+    {
+        "id": 23,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/lali4.jpg"
+    },
+    {
+        "id": 24,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/lali5.jpg"
+    },
+    {
+        "id": 25,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/lali6.jpg"
+    },
+    {
+        "id": 26,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/lali7.jpg"
+    },
+    {
+        "id": 27,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/lali8.jpg"
+    },
+    {
+        "id": 28,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/lali9.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/lali10.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/fasil1.jpg"
+    },
+    {
+        "id": 31,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/fasil2.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/fasil3.jpg"
+    },
+    {
+        "id": 33,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/fasil4.jpg"
+    },
+    {
+        "id": 34,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/fasil5.jpg"
+    },
+    {
+        "id": 35,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/fasil6.jpg"
+    },
+    {
+        "id": 36,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/fasil7.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/fasil8.jpg"
+    },
+    {
+        "id": 38,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/fasil9.jpg"
+    },
+    {
+        "id": 39,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/fasil10.jpg"
+    },
+    {
+        "id": 40,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/abenezer-shewaga-bl85Vq8HWOA-unsplash.jpg"
+    },
+    {
+        "id": 41,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/clay-knight-ai1yq01pzwg-unsplash (1).jpg"
+    },
+    {
+        "id": 42,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/daniele-levis-pelusi-_jf3I7YYtcQ-unsplash.jpg"
+    },
+    {
+        "id": 43,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "../public/pictures/erik-hathaway-eRFC0_U0hGE-unsplash.jpg"
+    },
+    {
+        "id": 44,
+        "title": "Coffee Ceremony",
+        "description": "The Ethiopian coffee ceremony is a revered cultural practice, embodying a sense of community and hospitality. Green coffee beans are meticulously roasted, ground, and brewed in a traditional 'jebena' pot. The ritual fosters social bonds as participants share in the aromatic experience, creating a cherished moment of connection over the nation's beloved beverage.",
+        "imageUrl": "../public/zeynep-sumer-sJGiivhaYd0-unsplash (1).jpg"
+    },
+    {
+        "id": 45,
+        "title": "Kitfo",
+        "description": "Kitfo, an Ethiopian culinary gem, features minced raw meat seasoned with spices and clarified butter. Served with injera, this dish showcases Ethiopia's rich culinary heritage and is a staple in communal dining, bringing people together over its unique flavors and textures.",
+        "imageUrl": "../public/kitfo.jpg"
+    },
+    {
+        "id": 46,
+        "title": "Fasiledes",
+        "description": "Enjera, a sourdough flatbread, is a fundamental element of Ethiopian cuisine, known for its slight tanginess. Often accompanying dishes, it serves as a versatile base. Shiro, a savory stew made from ground legumes and spices, complements enjera perfectly, creating a delicious and culturally significant combination in Ethiopian dining.",
+        "imageUrl": "../public/aynet2.webp"
+    }
+    ,
+    {
+        "id": 47,
+        "title": "Holiday Food",
+        "description": "Doro Wot, a quintessential dish in Ethiopian cuisine, is a spicy chicken stew celebrated for its rich flavors. Made with chicken, berbere spice, onions, garlic, and ginger, it simmers to perfection, creating a hearty and aromatic stew. Traditionally served with injera, Doro Wot holds cultural significance, often enjoyed during festive occasions and special gatherings in Ethiopia.",
+        "imageUrl": "../public/aynet.jpg"
+    }
+    ,
+    {
+        "id": 49,
+        "title": "Community Tourism",
+        "description": " Community Tourism in Ethiopia is one of the life time experience that someone one could get from traveling.",
+        "imageUrl": "../public/hang.jpg"
+    } ,
+    {
+        "id": 48,
+        "title": "Holiday Food",
+        "description": "Doro Wot, a quintessential dish in Ethiopian cuisine, is a spicy chicken stew celebrated for its rich flavors. Made with chicken, berbere spice, onions,",
+        "imageUrl": "../public/nat2.avif"
+    } ,
+    {
+        "id": 51,
+        "title": "Walia Ibex",
+        "description": "Doro Wot, a quintessential dish in Ethiopian cuisine, is a spicy chicken stew celebrated for its rich flavors. Made with chicken, berbere spice, onion",
+        "imageUrl": "../public/animal.jpg"
+    },
+    {
+        "id": 52,
+        "title": "Mountain Nyala",
+        "description": "Doro Wot, a quintessential dish in Ethiopian cuisine, is a spicy chicken stew celebrated for its rich flavors. Made with chicken, berbere spice, onion",
+        "imageUrl": "../public/animal2.jpg"
+    },
+    {
+        "id": 53,
+        "title": "Abissinya Lion",
+        "description": "The Abyssinian Lion found in Ethiopia has a large, dark mane, extending from the head, neck and chest to the belly. ",
+        "imageUrl": "../public/animal3.jpg"
+    },
+    {
+        "id": 54,
+        "title": "Menilik Bushbucks",
+        "description": "These little bushbucks are part of a sub-species found only in the Ethiopian highlands, and are very shy around humans.",
+        "imageUrl": "../public/animal4.jpg"
+    },
+    {
+        "id": 55,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/animal5.jpg"
+    },
+    {
+        "id": 56,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/simen.jpg"
+    },
+    {
+        "id": 57,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/simen2.webp"
+    },
+    {
+        "id": 58,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/simen3.jpg"
+    },
+    {
+        "id": 59,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/simen4.jpg"
+    },
+    {
+        "id": 60,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/simen5.jpg"
+    },
+    {
+        "id": 61,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/simen6.jpg"
+    },
+    {
+        "id": 62,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/simen7.jpg"
+    },
+    {
+        "id": 63,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/simen8.jpg"
+    },
+    {
+        "id": 64,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/simen9.webp"
+    },
+    {
+        "id": 65,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/Axum.jpg"
+    },
+    {
+        "id": 66,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/axum3.jpeg"
+    },
+    {
+        "id": 67,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/axum2.jpg"
+    },
+    {
+        "id": 68,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/axum4.jpg"
+    },
+    {
+        "id": 69,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/axum5.jpg"
+    },
+    {
+        "id": 70,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/tana.jpg"
+    },
+    {
+        "id": 71,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/tana2.jpg"
+    },
+    {
+        "id": 72,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/tana3.jpg"
+    },
+    {
+        "id": 73,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/tana4.jpeg"
+    },
+    {
+        "id": 74,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/tana5.jpg"
+    },
+    {
+        "id": 75,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/tana6.jpg"
+    },
+    {
+        "id": 76,
+        "title": "Swanyne’s Hartebeeste",
+        "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
+        "imageUrl": "../public/tana7.jpg"
+    }
+
+]
