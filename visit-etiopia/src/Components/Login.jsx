@@ -39,11 +39,11 @@ const Login = ({ setAuthenticated }) => {
   };
 
   return (
-    <div className="flex  items-center justify-center min-h-screen bg-gray-100 ">
-      <div className='w-1/2 h-screen'>
+    <div className="lg:flex  items-center justify-center min-h-screen bg-gray-100 ">
+      <div className='hidden lg:block lg:w-1/2 h-screen'>
         <img src="../../public/engin-akyurt-VCUSHIWzs0M-unsplash.jpg" alt=""  className='h-screen'/>
       </div>
-      <div className="w-1/2 h-screen bg-white flex flex-col items-center rounded px-8 py-6 shadow-gray justify-center">
+      <div className="lg:w-1/2 h-screen bg-white flex flex-col items-center rounded px-8 py-6 shadow-gray justify-center w-full ">
         <h2 className="text-2xl font-bold mb-6">Login Page</h2>
         {error && <p className="text-red-500 mb-4">{error}</p>}
         <form onSubmit={handleLogin} className='w-4/5 self-center'>

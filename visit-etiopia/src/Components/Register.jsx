@@ -47,11 +47,11 @@ const Registration = () => {
   };
 
   return (
-    <div className="flex backg items-center justify-center h-screen w-screen">
-      <div className='w-1/2 h-screen'>
+    <div className="lg:flex backg items-center justify-center h-screen w-screen">
+      <div className='hidden lg:block w-1/2 h-screen'>
         <img src="../../public/engin-akyurt-VCUSHIWzs0M-unsplash.jpg" alt=""  className='h-screen'/>
       </div>
-      <div className=" w-1/2 h-screen bg-white flex flex-col items-center  rounded px-8 py-6 shadow-gray">
+      <div className="lg:w-1/2 h-screen bg-white flex flex-col items-center rounded px-8 py-6 shadow-gray justify-center">
         <h1 className='font-whisper text-4xl mt-3 mb-9   font-extrabold text-[#271D3B]  align-center'>WELCOME</h1>
         <h2 className="text-2xl font-bold mb-6">Registration Page</h2>
         {error && <p className="text-red-500 mb-4">{error}</p>}

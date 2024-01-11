@@ -5,9 +5,9 @@ export default function About(){
     return(
         <>
         <Header />
-        <img src="../../public/engin-akyurt-VCUSHIWzs0M-unsplash.jpg" className="w-screen object-cover h-screen" alt="" />
-        <h1 className="font-bold text-7xl">About Ethiopia</h1>
-        <p className="about m-10 px-14">Ethiopia, situated in the Horn of Africa, is a country known for its rich history, diverse cultures, and stunning landscapes. Here are some key aspects about Ethiopia:
+        <img src="../../public/engin-akyurt-VCUSHIWzs0M-unsplash.jpg" className="lg:w-screen object-cover lg:h-screen" alt="" />
+        <h1 className="lg:font-bold font-semibold lg:text-7xl text-6xl">About Ethiopia</h1>
+        <p className="about lg:m-10 lg:px-14 px-3 m-2">Ethiopia, situated in the Horn of Africa, is a country known for its rich history, diverse cultures, and stunning landscapes. Here are some key aspects about Ethiopia:
 
        <br /> <br /> <span>Geography and Landscape</span> <br /> 
         Ethiopia is a landlocked country characterized by diverse geographical features. The Great Rift Valley runs through the country, giving rise to highlands, plateaus, and lowlands. The Simien Mountains, Bale Mountains, and the Danakil Depression are notable geographical features, showcasing the country's varied topography.
