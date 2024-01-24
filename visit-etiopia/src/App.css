@@ -61,4 +61,7 @@
   font-size: larger;
   font-weight: bolder;
 }
-
+.selected-date-marker {
+  color: red; /* Customize the color */
+  font-weight: bold; /* Customize the font weight */
+}

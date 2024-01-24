@@ -30,7 +30,7 @@ export default function About(){
        <br /> <br /> <span>Challenges and Progress</span> <br />  
         Ethiopia has faced challenges such as famine, political instability, and conflicts. However, in recent years, the country has experienced economic growth and development initiatives. Ethiopia plays a crucial role in regional affairs and has been a diplomatic center for African unity. <br /> <br />
         
-        <p><span> Ethiopia is a country with a rich history, diverse culture, and unique geography. Here are some amazing facts about Ethiopia:</span> <br /> <br />
+        <p className=" text-xl "><span > Ethiopia is a country with a rich history, diverse culture, and unique geography. <br /> Here are some amazing facts about Ethiopia:</span> <br /> <br /> </p>
 
 <span>Ancient Civilization:</span> Ethiopia is one of the oldest nations in the world and has a history dating back thousands of years. It is home to the ancient Kingdom of Aksum, known for its obelisks and the Church of St. Mary of Zion, which is believed to house the Ark of the Covenant.<br /> <br />
 
@@ -53,7 +53,7 @@ export default function About(){
 1<span>Abyssinian Cat:</span> The Abyssinian cat, one of the oldest known cat breeds, is believed to have originated in Ethiopia. Known for its distinctive ticked coat and playful nature, it's often associated with ancient Egyptian art.<br /> <br />
 
 Ethiopia's unique blend of history, culture, and natural wonders makes it a fascinating and captivating country.</p>
-        </p>
+       
 
         
         <Footer />

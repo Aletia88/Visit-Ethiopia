@@ -1,3 +1,4 @@
+import { useState } from "react";
 import PopularSlideshow from "./Popular";
 import Header from "./Header";
 import Lalibela from "./Lalibela";
@@ -5,8 +6,26 @@ import Footer from "./Footer";
 import Eid from "./Eid";
 import Meskel from "./Meskel";
 import ScrollToTop from "./Scrolltotop";
+import Calendar from 'react-calendar';
+import 'react-calendar/dist/Calendar.css'; 
 
 export default function Home() {
+  const defaultDate = new Date('2024-01-01'); // For a single date
+  // const defaultDate = [new Date(), new Date('2024-01-01')]; // For an array of dates
+
+  const [date, setDate] = useState(defaultDate);
+
+  const handleDateChange = (newDate) => {
+    setDate(newDate);
+    // Handle any additional logic on date change
+  };
+  const tileContent = ({ date, view }) => {
+    // Use .toDateString() on date to compare
+    if (view === 'month' && date.toDateString() === defaultDate.toDateString()) {
+      return <span className="selected-date-marker bg-red"></span>;
+    }
+    return null;
+  };
   return (
     <>
       <Header />
@@ -47,6 +66,9 @@ export default function Home() {
       </div>
       <h1 className="text-3xl md:text-5xl font-bold ml-3">Events</h1>
       <Lalibela />
+      <div>
+      <Calendar onChange={handleDateChange} value={date} tileContent={tileContent} />
+      </div>
       <Eid />
       <Meskel />
       <Footer />
