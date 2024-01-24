@@ -10,7 +10,7 @@ function Footer() {
             <h4 className="text-xl font-bold mb-4">Vist Ethiopia</h4>
             <p className="text-sm">"Discover Ethiopia A Tapestry of Tradition, Nature, and Endless Wonder."</p>
           </div>
-          <div>
+          <div className=' border-l-2 pl-36'>
           <ul className="   text-white text-md">
             <li className="">
               <Link to="../Home">
