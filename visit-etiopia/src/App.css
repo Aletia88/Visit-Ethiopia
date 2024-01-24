@@ -64,4 +64,5 @@
 .selected-date-marker {
   color: red; /* Customize the color */
   font-weight: bold; /* Customize the font weight */
+  background-color: blue;
 }

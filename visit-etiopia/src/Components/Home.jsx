@@ -10,22 +10,25 @@ import Calendar from 'react-calendar';
 import 'react-calendar/dist/Calendar.css'; 
 
 export default function Home() {
-  const defaultDate = new Date('2024-01-01'); // For a single date
-  // const defaultDate = [new Date(), new Date('2024-01-01')]; // For an array of dates
+  const selectedDates = [new Date('2024-01-19'), new Date('2024-09-27'), new Date('2024-01-07'), new Date('2024-11-07')];
 
-  const [date, setDate] = useState(defaultDate);
+  const [date, setDate] = useState(selectedDates);
 
   const handleDateChange = (newDate) => {
     setDate(newDate);
     // Handle any additional logic on date change
   };
+
   const tileContent = ({ date, view }) => {
-    // Use .toDateString() on date to compare
-    if (view === 'month' && date.toDateString() === defaultDate.toDateString()) {
-      return <span className="selected-date-marker bg-red"></span>;
+    if (
+      view === 'month' &&
+      selectedDates.some((selectedDate) => selectedDate.toDateString() === date.toDateString())
+    ) {
+      return <span className="selected-date-marker">..</span>;
     }
     return null;
   };
+
   return (
     <>
       <Header />
@@ -66,8 +69,18 @@ export default function Home() {
       </div>
       <h1 className="text-3xl md:text-5xl font-bold ml-3">Events</h1>
       <Lalibela />
-      <div>
+      <div className="m-10 w-full bg-[#271D3B] p-4 lg:flex justify-between space-x-4 ">
       <Calendar onChange={handleDateChange} value={date} tileContent={tileContent} />
+      <div className="text-white w-2/3"><p>Timkat (Epiphany): Timkat is celebrated on the 10th day of the month of Terr (January 19th or 20th in the Gregorian calendar). <br /> <br />
+
+Meskel (Finding of the True Cross): Meskel is celebrated on the 17th day of the month of Meskerem (September 27th or 28th in the Gregorian calendar). <br /> <br />
+
+Genna (Ethiopian Christmas): Genna is celebrated on the 7th day of the month of Tahsas (January 7th in the Gregorian calendar). <br /> <br />
+
+Lidet (Ethiopian Epiphany): Lidet is celebrated on the 29th day of the month of Tahsas (January 19th or 20th in the Gregorian calendar). <br /> <br />
+
+Hidar Tsion: Hidar Tsion is celebrated on the 1st day of the month of Hidar (November 29th or 30th in the Gregorian calendar).</p></div>
+      <p></p>
       </div>
       <Eid />
       <Meskel />
