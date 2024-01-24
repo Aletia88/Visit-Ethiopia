@@ -36,7 +36,7 @@ export default function Places() {
       >
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15608.670681706764!2d39.046719100000004!3d12.0319753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x16413eee814f2d03%3A0xf27414e782ae4b62!2sLalibela!5e0!3m2!1sen!2set!4v1706121184562!5m2!1sen!2set"
-          width="600"
+          width="1000"
           height="450"
           style={{ border: "0" }}
           allowfullscreen=""
@@ -62,9 +62,9 @@ export default function Places() {
       >
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3884.3597027664405!2d37.88507277390944!3d13.202719009771405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1669c1d46d16f89d%3A0x770284df7312622d!2sSimien%20Mountains%20National%20Park!5e0!3m2!1sen!2set!4v1706121812067!5m2!1sen!2set"
-          width="600"
+          width="1000"
           height="450"
-          style={{border:"0"}}
+          style={{ border: "0" }}
           allowfullscreen=""
           loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"
@@ -83,6 +83,20 @@ export default function Places() {
         </p>
         <Axum />
       </div>
+      <div
+        style={{ height: "80vh", width: "100%" }}
+        className="py-5 flex justify-center self-center mb-0 bg-[#271D3B]"
+      >
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61904.94703720672!2d38.705390379463346!3d14.132616728299466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x166bfcbea0c26cfb%3A0x74d0dc83a015ace1!2sAksum!5e0!3m2!1sen!2set!4v1706121975937!5m2!1sen!2set"
+          width="1000"
+          height="450"
+          style={{ border: "0" }}
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+        ></iframe>
+      </div>
 
       <div className="bg-[#F3F8FF] py-10 mt-14 mx-2 lg:mx-5 rounded-lg">
         <p className="mx-5 text-lg">
@@ -96,6 +110,20 @@ export default function Places() {
           is a spectacular natural wonder.
         </p>
         <Tana />
+      </div>
+      <div
+        style={{ height: "80vh", width: "100%" }}
+        className="py-5 flex justify-center self-center mb-0 bg-[#271D3B]"
+      >
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d499626.2338974879!2d36.978829369033555!3d11.951642238708578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x165caebe57f362f7%3A0x9570bc544d98e1a4!2sLake%20Tana!5e0!3m2!1sen!2set!4v1706122148650!5m2!1sen!2set"
+          width="1000"
+          height="450"
+          style={{border:"0"}}
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+        ></iframe>
       </div>
       <Footer />
       <ScrollToTop />
