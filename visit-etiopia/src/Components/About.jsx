@@ -31,6 +31,30 @@ export default function About(){
         Ethiopia has faced challenges such as famine, political instability, and conflicts. However, in recent years, the country has experienced economic growth and development initiatives. Ethiopia plays a crucial role in regional affairs and has been a diplomatic center for African unity.
         
         In summary, Ethiopia's allure lies in its historical significance, cultural diversity, and stunning natural landscapes, making it a captivating destination for those interested in exploring the intersection of ancient civilizations and modern dynamics.</p>
+
+        <p>Ethiopia is a country with a rich history, diverse culture, and unique geography. Here are some amazing facts about Ethiopia:
+
+1. **Ancient Civilization:** Ethiopia is one of the oldest nations in the world and has a history dating back thousands of years. It is home to the ancient Kingdom of Aksum, known for its obelisks and the Church of St. Mary of Zion, which is believed to house the Ark of the Covenant.
+
+2. **Unique Alphabet:** Ethiopia has its own unique alphabet, Ge'ez, which is one of the oldest alphabets still in use in the world.
+
+3. **Birthplace of Coffee:** Ethiopia is often considered the birthplace of coffee. Legend has it that a 9th-century goat herder named Kaldi discovered coffee when he noticed his goats becoming more energetic after eating berries from a certain tree.
+
+4. **Diverse Landscapes:** The country's landscapes are incredibly diverse, ranging from the Simien Mountains to the Danakil Depression, one of the hottest and lowest places on Earth.
+
+5. **Lalibela's Rock-Hewn Churches:** Lalibela, a UNESCO World Heritage site, is famous for its 11 medieval rock-hewn churches. These churches were carved out of solid rock in the 12th century and are considered a remarkable feat of engineering and religious devotion.
+
+6. **Lucy – The Oldest Human Ancestor:** The fossilized remains of a hominid known as "Lucy" were discovered in Ethiopia in 1974. Lucy is an Australopithecus afarensis and is one of the most significant hominid finds in paleoanthropology.
+
+7. **Cultural Diversity:** Ethiopia is home to a multitude of ethnic groups, each with its own distinct language and culture. The country embraces a rich tapestry of traditions, music, dance, and festivals.
+
+8. **Unique Calendar:** Ethiopia has its own calendar, known as the Ethiopian calendar, which is about seven to eight years behind the Gregorian calendar. The Ethiopian New Year, known as Enkutatash, is celebrated in September.
+
+9. **Lake Tana and the Blue Nile:** Lake Tana, the largest lake in Ethiopia, is the source of the Blue Nile River. The Blue Nile is a major tributary of the Nile River and plays a crucial role in the annual flooding of the Nile Delta in Egypt.
+
+10. **Abyssinian Cat:** The Abyssinian cat, one of the oldest known cat breeds, is believed to have originated in Ethiopia. Known for its distinctive ticked coat and playful nature, it's often associated with ancient Egyptian art.
+
+Ethiopia's unique blend of history, culture, and natural wonders makes it a fascinating and captivating country.</p>
         <Footer />
         </>
     )
