@@ -5,6 +5,7 @@ import Lalibela from "./Lalibela";
 import ScrollToTop from "./Scrolltotop";
 import Simen from "./Simen";
 import Tana from "./Tana";
+import GoogleMapReact from 'google-map-react';
 
 export default function Places() {
     return(

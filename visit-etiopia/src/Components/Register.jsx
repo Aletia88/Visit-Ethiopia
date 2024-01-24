@@ -42,8 +42,6 @@ const Registration = () => {
     setConfirmPassword('');
     alert('Registration successful!');
 
-    // Redirect to login page
-    // history.push('/login');
   };
 
   return (
