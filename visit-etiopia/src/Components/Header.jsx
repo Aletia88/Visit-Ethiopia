@@ -31,11 +31,14 @@ function Header() {
       <nav className="container flex items-center justify-between gap-2  lg:px-8">
         <div className="flex items-center">
           {/* <h1 className="text-xl font-bold text-gray-1000 cursor-pointer">Ethiography</h1> */}
-          <img
+          <Link to="../../Home">
+            <img
             src="../../public/pictures/logo.png"
             alt=""
-            className="w-50 h-20 rounded hidden md:block"
+            className="w-50 h-20 rounded hidden md:block cursor-pointer"
           />
+          </Link>
+          
         </div>
         <div className="hidden md:flex md:items-center">
           <ul className="navB flex lg:space-x-6 space-x-3 text-white text-md self-center text-center">
