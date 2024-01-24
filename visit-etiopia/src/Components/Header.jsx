@@ -38,7 +38,7 @@ function Header() {
           />
         </div>
         <div className="hidden md:flex md:items-center">
-          <ul className="flex lg:space-x-6 space-x-3 text-white text-md">
+          <ul className="navB flex lg:space-x-6 space-x-3 text-white text-md self-center text-center">
             <li className="">
               <Link to="../Home">
                 <a href="#" className="nav-link pr-2">

@@ -25,18 +25,18 @@
     background-repeat: no-repeat;
     width: 100%;
   }
-  li{
+ .navB li{
     border-radius: 10px;
     text-align: center;
-    /* padding:2px 10px 2 10 ; */
+    padding:2px 8px;
   }
-  li:hover{
+ .navB li:hover{
     font:bold;
     background: #fff;
     color:black;
     border-radius: 10px;
     text-align: center;
-    padding:2px 10px ;
+    /* padding:2px 10px ; */
   }
   
 
