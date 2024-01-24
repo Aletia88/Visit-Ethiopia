@@ -39,40 +39,40 @@ function Header() {
         </div>
         <div className="hidden md:flex md:items-center">
           <ul className="navB flex lg:space-x-6 space-x-3 text-white text-md self-center text-center">
-            <li className="">
-              <Link to="../Home">
-                <a href="#" className="nav-link pr-2">
+            <Link to="../Home">
+              <li className="">
+                <a href="#" className="nav-link">
                   Home
                 </a>
-              </Link>
-            </li>
-            <li>
-              <Link to="../places">
-                <a href="#places" className="w-full pr-2">
+              </li>{" "}
+            </Link>
+            <Link to="../places">
+              <li>
+                <a href="#places" className="w-full">
                   Places To Visit
                 </a>
-              </Link>
-            </li>
-            <li>
-              <Link to="../Things">
-                <a className="nav-link pr-2">Things To Do</a>
-              </Link>
-            </li>
+              </li>
+            </Link>
+            <Link to="../Things">
+              <li>
+                <a className="nav-link">Things To Do</a>
+              </li>
+            </Link>
             <Link to="../About">
               <li>
-                <a href="#footer" className="nav-link pr-2">
+                <a href="#footer" className="nav-link">
                   About
                 </a>
               </li>
             </Link>
             <li>
-              <a href="#footer" className="nav-link pr-2">
+              <a href="#footer" className="nav-link">
                 Contact
               </a>
             </li>
-            <li className="hover:pr-[2px]">
+            <li className="">
               <Link to="../login">
-                <button className="bg-white align-middle text-black px-3 ml-5 rounded font-semibold py-1 ">
+                <button className="hover:bg-white align-middle hover:text-black text-white rounded font-semibold ">
                   Logout
                 </button>
               </Link>
@@ -94,44 +94,44 @@ function Header() {
         {isMobileMenuOpen && (
           <div className="md:hidden w-full pb-5 h-1/3">
             <ul className="mt-4 w-full space-y-6 text-2xl text-white items-center text-start flex flex-col">
-            <li className="">
-              <Link to="../Home">
-                <a href="#" className="nav-link">
-                  Home
-                </a>
+              <li className="">
+                <Link to="../Home">
+                  <a href="#" className="nav-link">
+                    Home
+                  </a>
+                </Link>
+              </li>
+              <li>
+                <Link to="../places">
+                  <a href="#places" className="w-full ">
+                    Places To Visit
+                  </a>
+                </Link>
+              </li>
+              <li>
+                <Link to="../Things">
+                  <a className="nav-link">Things To Do</a>
+                </Link>
+              </li>
+              <Link to="../About">
+                <li>
+                  <a href="#footer" className="nav-link">
+                    About
+                  </a>
+                </li>
               </Link>
-            </li>
-            <li>
-              <Link to="../places">
-                <a href="#places" className="w-full ">
-                  Places To Visit
-                </a>
-              </Link>
-            </li>
-            <li>
-              <Link to="../Things">
-                <a className="nav-link">Things To Do</a>
-              </Link>
-            </li>
-            <Link to="../About">
               <li>
                 <a href="#footer" className="nav-link">
-                  About
+                  Contact
                 </a>
               </li>
-            </Link>
-            <li>
-              <a href="#footer" className="nav-link">
-                Contact
-              </a>
-            </li>
-            <li className="hover:pr-[2px]">
-              <Link to="../login">
-                <button className="bg-white align-middle text-black px-2 rounded font-semibold py-1 ">
-                  Logout
-                </button>
-              </Link>
-            </li>
+              <li className="hover:pr-[2px]">
+                <Link to="../login">
+                  <button className="bg-white align-middle text-black px-2 rounded font-semibold py-1 ">
+                    Logout
+                  </button>
+                </Link>
+              </li>
             </ul>
           </div>
         )}
