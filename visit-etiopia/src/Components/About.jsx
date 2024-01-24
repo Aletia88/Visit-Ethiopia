@@ -30,9 +30,9 @@ export default function About(){
        <br /> <br /> <span>Challenges and Progress</span> <br />  
         Ethiopia has faced challenges such as famine, political instability, and conflicts. However, in recent years, the country has experienced economic growth and development initiatives. Ethiopia plays a crucial role in regional affairs and has been a diplomatic center for African unity. <br /> <br />
         
-        <p>Ethiopia is a country with a rich history, diverse culture, and unique geography. Here are some amazing facts about Ethiopia: <br /> <br />
+        <p><span> Ethiopia is a country with a rich history, diverse culture, and unique geography. Here are some amazing facts about Ethiopia:</span> <br /> <br />
 
-Ancient Civilization: Ethiopia is one of the oldest nations in the world and has a history dating back thousands of years. It is home to the ancient Kingdom of Aksum, known for its obelisks and the Church of St. Mary of Zion, which is believed to house the Ark of the Covenant.<br /> <br />
+<span>Ancient Civilization:</span> Ethiopia is one of the oldest nations in the world and has a history dating back thousands of years. It is home to the ancient Kingdom of Aksum, known for its obelisks and the Church of St. Mary of Zion, which is believed to house the Ark of the Covenant.<br /> <br />
 
 <span>Unique Alphabet:</span> Ethiopia has its own unique alphabet, Ge'ez, which is one of the oldest alphabets still in use in the world.<br /> <br />
 
