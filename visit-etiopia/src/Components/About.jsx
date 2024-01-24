@@ -50,7 +50,7 @@ Ancient Civilization: Ethiopia is one of the oldest nations in the world and has
 
 <span>Lake Tana and the Blue Nile:</span> Lake Tana, the largest lake in Ethiopia, is the source of the Blue Nile River. The Blue Nile is a major tributary of the Nile River and plays a crucial role in the annual flooding of the Nile Delta in Egypt.<br /> <br />
 
-1<span></span>Abyssinian Cat: The Abyssinian cat, one of the oldest known cat breeds, is believed to have originated in Ethiopia. Known for its distinctive ticked coat and playful nature, it's often associated with ancient Egyptian art.<br /> <br />
+1<span>Abyssinian Cat:</span> The Abyssinian cat, one of the oldest known cat breeds, is believed to have originated in Ethiopia. Known for its distinctive ticked coat and playful nature, it's often associated with ancient Egyptian art.<br /> <br />
 
 Ethiopia's unique blend of history, culture, and natural wonders makes it a fascinating and captivating country.</p>
         </p>
