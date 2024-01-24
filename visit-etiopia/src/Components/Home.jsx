@@ -69,7 +69,7 @@ export default function Home() {
       </div>
       <h1 className="text-3xl md:text-5xl font-bold ml-3">Events</h1>
       <Lalibela />
-      <div className="m-10 w-full bg-[#271D3B] p-4 lg:flex justify-between space-x-4 ">
+      <div className="m-10  bg-[#271D3B] p-4 lg:flex justify-between space-x-4 ">
       <Calendar onChange={handleDateChange} value={date} tileContent={tileContent} />
       <div className="text-white w-2/3"><p>Timkat (Epiphany): Timkat is celebrated on the 10th day of the month of Terr (January 19th or 20th in the Gregorian calendar). <br /> <br />
 
