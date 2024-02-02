@@ -390,7 +390,7 @@
         "id": 65,
         "title": "Swanyne’s Hartebeeste",
         "description": "These large Antelopes are native to Ethiopia, and have been the target of large sanctuary projects to help save them from their current extinction danger. ",
-        "imageUrl": "../public/Axum.jpg"
+        "imageUrl": "/Axum.jpg"
     },
     {
         "id": 66,
